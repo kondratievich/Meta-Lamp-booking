@@ -11,7 +11,7 @@ header{
   box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
 }
 .logo{
-  position: relative;
+  position: absolute;
   width: 105.69px;
   height: 40px;
   margin: 15px 140px 15px 140px;
@@ -23,7 +23,7 @@ header{
   text-align: center;
 }
 .nav_enter {
-  position:rel;
+  position:relative;
   padding-left: 20px;
 }
 .popup_login , .popup_reg {
